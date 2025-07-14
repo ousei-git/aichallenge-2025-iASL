@@ -1,0 +1,9 @@
+# generated from colcon_core/shell/template/command_prefix.sh.em
+. "/aichallenge/install/goal_pose_setter/share/goal_pose_setter/package.sh"
+. "/aichallenge/install/gyro_odometer/share/gyro_odometer/package.sh"
+. "/aichallenge/install/imu_corrector/share/imu_corrector/package.sh"
+. "/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/package.sh"
+. "/aichallenge/install/path_to_trajectory/share/path_to_trajectory/package.sh"
+. "/aichallenge/install/racing_kart_description/share/racing_kart_description/package.sh"
+. "/aichallenge/install/racing_kart_sensor_kit_description/share/racing_kart_sensor_kit_description/package.sh"
+. "/aichallenge/install/simple_pure_pursuit/share/simple_pure_pursuit/package.sh"

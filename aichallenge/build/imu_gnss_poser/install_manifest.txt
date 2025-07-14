@@ -1,0 +1,17 @@
+/aichallenge/install/imu_gnss_poser/lib/imu_gnss_poser/imu_gnss_poser_node
+/aichallenge/install/imu_gnss_poser/share/ament_index/resource_index/package_run_dependencies/imu_gnss_poser
+/aichallenge/install/imu_gnss_poser/share/ament_index/resource_index/parent_prefix_path/imu_gnss_poser
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/environment/ament_prefix_path.sh
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/environment/ament_prefix_path.dsv
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/environment/path.sh
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/environment/path.dsv
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/local_setup.bash
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/local_setup.sh
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/local_setup.zsh
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/local_setup.dsv
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/package.dsv
+/aichallenge/install/imu_gnss_poser/share/ament_index/resource_index/packages/imu_gnss_poser
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/cmake/ament_cmake_export_dependencies-extras.cmake
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/cmake/imu_gnss_poserConfig.cmake
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/cmake/imu_gnss_poserConfig-version.cmake
+/aichallenge/install/imu_gnss_poser/share/imu_gnss_poser/package.xml
