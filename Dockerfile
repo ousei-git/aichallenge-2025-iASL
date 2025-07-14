@@ -6,7 +6,7 @@ COPY packages.txt /tmp/packages.txt
 RUN xargs -a /tmp/packages.txt apt-get install -y --no-install-recommends
 
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --timeout 600 -r requirements.txt -v
 RUN pip install -r requirements.txt
 
 # PATH="$PATH:/root/.local/bin"

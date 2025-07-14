@@ -1,0 +1,11 @@
+source;share/aichallenge_awsim_adapter/hook/cmake_prefix_path.ps1
+source;share/aichallenge_awsim_adapter/hook/cmake_prefix_path.dsv
+source;share/aichallenge_awsim_adapter/hook/cmake_prefix_path.sh
+source;share/aichallenge_awsim_adapter/hook/ld_library_path_lib.ps1
+source;share/aichallenge_awsim_adapter/hook/ld_library_path_lib.dsv
+source;share/aichallenge_awsim_adapter/hook/ld_library_path_lib.sh
+source;share/aichallenge_awsim_adapter/local_setup.bash
+source;share/aichallenge_awsim_adapter/local_setup.dsv
+source;share/aichallenge_awsim_adapter/local_setup.ps1
+source;share/aichallenge_awsim_adapter/local_setup.sh
+source;share/aichallenge_awsim_adapter/local_setup.zsh
